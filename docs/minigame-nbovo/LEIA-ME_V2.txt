@@ -1,0 +1,108 @@
+HYPERSHOW — GIGANTE DO MARTELO • REVISÃO 2
+Arena modular ampliada • público-alvo: 12 a 20 jogadores no total
+
+O QUE MUDOU
+Esta revisão reconstrói a arena a partir da nova imagem de referência.
+O antigo piso plano com triângulos foi substituído por uma estação
+circular de placas metálicas, plataformas em anéis concêntricos e
+uma passarela externa elevada. O núcleo tem camadas, painéis,
+colunas, anéis luminosos e uma coroa verdadeiramente tridimensional.
+Foram acrescentados painéis de coroa, pórticos HyperShow, pilares
+iluminados, guarda-corpos e avisos de perigo.
+
+MEDIDAS E CAPACIDADE PREVISTA
+- Diâmetro nominal do piso: 240 studs (anterior: aproximadamente 160).
+- Algumas bordas luminosas ultrapassam ligeiramente esse diâmetro.
+- Anel de perseguição: entre raios 47 e 65, largura nominal 18 studs,
+  com interseções das rampas de acesso.
+- 20 marcadores iniciais, distribuídos no raio 57.
+- Distância entre marcadores vizinhos: aproximadamente 17,8 studs.
+- Para 20 jogadores: 1 gigante + 19 sobreviventes; sobra um marcador.
+- Para 12 jogadores: 1 gigante + 11 sobreviventes; distribua os
+  sobreviventes uniformemente entre os marcadores.
+- Superfícies elevadas nominais em 6, 12 e 18 studs. Frisos e símbolos
+  ficam alguns décimos acima das superfícies nominais.
+- Núcleo central: disco superior de 28 studs de diâmetro, altura 12;
+  base maior em camadas. A coroa e o dossel são elementos decorativos.
+- Asteroides ficam fora do limite da arena, em arquivo opcional separado.
+
+A capacidade é uma meta de projeto espacial, NÃO um resultado de
+playtest. Física, equilíbrio, câmera e desempenho com 20 pessoas
+ainda precisam ser testados no Roblox Studio.
+
+ARQUIVOS
+HyperShow_GiganteMartelo_V2.blend
+  Fonte editável no Blender, com coleções nomeadas e materiais.
+HyperShow_V2_Arena_20Players.glb
+  Arena completa, incluindo marcadores visuais de spawn.
+Modulo_*.glb
+  Coleções exportadas separadamente, com coordenadas globais comuns.
+HyperShow_V2_Martelo.glb
+  Martelo vermelho cilíndrico independente; pivô na empunhadura.
+HyperShow_V2_ReferenciaEscala.glb
+  Figuras rígidas de comparação, normal e 2,75x. Não são rigs R15,
+  não possuem skinning e não estão dentro da arena exportada.
+HyperShow_V2_Asteroides_Opcionais.glb
+  Decoração espacial independente da área jogável.
+Compatibilidade_GLTF/
+  Cópias glTF + bin equivalentes, caso o importador não liste GLB.
+01 a 06 PNG
+  Renders reais da geometria feitos no Blender.
+Manifesto_V2.json
+  Dimensões reais, coordenadas de spawn, rampas e contagens por coleção.
+Validacao_V2.json
+  Resultados da reabertura do .blend e reimportação dos GLBs no Blender.
+SHA256SUMS.txt
+  Hashes dos arquivos para conferência de integridade.
+
+IMPORTAÇÃO NO ROBLOX STUDIO
+1. Use File > Import; selecione o GLB da arena (ou o glTF equivalente).
+2. Escolha Scale Unit = Studs e No Rig.
+3. Mantenha Merge Meshes desativado e Use Imported Pivot ativado.
+4. Mantenha as cores de vértice habilitadas.
+5. Importe a arena estática ancorada. Depois configure separadamente
+   as plataformas móveis e o martelo.
+6. Confira diâmetro de aproximadamente 240 studs na prévia.
+7. Não sobreponha Arena_20Players e Modulo_*.glb: os módulos já estão
+   incluídos no arquivo completo. Escolha uma forma de montagem.
+8. Para montar pelos módulos, mantenha todos na mesma origem mundial.
+   Não centralize cada módulo individualmente.
+9. A coleção Markers serve como guia visual de posicionamento;
+   substitua-a por SpawnLocations/Attachments e depois oculte as malhas.
+
+EIXOS
+Blender X/Y/Z -> Roblox X/Z/-Y. Altura Blender Z vira altura Roblox Y.
+O piso principal fica em altura 0.
+As coordenadas Roblox dos 20 marcadores estão no manifesto.
+O ponto do gigante está em (0,15,0), acima do disco central em altura 12.
+
+PIVÔS E MATERIAIS
+Plataformas de cada módulo possuem pivô no centro superior nominal.
+Cada plataforma móvel é uma malha independente: mova a peça inteira.
+O martelo possui raiz Hammer_GripPivot no ponto da mão.
+O modelo contém materiais sólidos PBR e cores por vértice; a emissão,
+o brilho óptico e a iluminação dos renders precisam ser ajustados no
+Studio. O bloom do render não faz parte da malha.
+NeonWhite / NeonPink / NeonCyan / NeonGold identificam materiais
+luminosos. Considere desabilitar colisão em frisos e símbolos.
+
+ESCOPO
+Entrega de modelagem e exportação 3D, não minigame funcional.
+Luau, colisões finais, hitboxes, Tool/Motor6D, animações, impulso dos
+jump pads, plataformas móveis, perigo, multiplayer, HUD, áudio e
+classificação ainda precisam ser implementados.
+O personagem gigante real deverá ser o avatar escalado do jogador.
+As figuras comparativas são opcionais e NÃO devem virar NPC fixo.
+Não foi realizada importação ou simulação no Roblox Studio.
+Não foi medida taxa de quadros em dispositivos móveis.
+
+VALIDAÇÃO
+Os testes verificam arquivos, dimensões, coordenadas, separação das
+plataformas e reimportação da geometria. Não comprovam gameplay,
+acessibilidade de toda rota com R15 ou desempenho multiplayer.
+Teste as rotas, o dossel central e os pontos de encontro das rampas
+com avatares reais e com a escala desejada do gigante.
+
+Documentação de referência:
+https://create.roblox.com/docs/studio/importer
+https://create.roblox.com/docs/art/blender

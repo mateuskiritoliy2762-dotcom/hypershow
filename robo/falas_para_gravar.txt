@@ -1,0 +1,134 @@
+FALAS DO HYPER PARA GRAVAR (geradas de ReplicatedStorage/Shared/Config.luau)
+Total: 95 falas. Nome do arquivo de áudio <TAB> texto exato.
+Grave cada fala com a emoção indicada no título do grupo.
+Voz: Kairogen "Açougueirão" (PSkrmGGNwoOIKXqzUWs9). Áudios cortados em audio/hyper/falas/.
+TODAS AS 95 GERADAS, ENVIADAS AO ROBLOX E LIGADAS EM Config.Hyper.Voice.Ids.
+
+== Início da rodada (RoundStart) — emoção: feliz ==
+RoundStart_01.mp3	Senhoras, senhores e criaturas espaciais!
+RoundStart_02.mp3	O espetáculo vai começar!
+RoundStart_03.mp3	Preparados para passar vergonha espacial?
+RoundStart_04.mp3	Apertem os cintos! Ou não!
+RoundStart_05.mp3	Quem pediu diversão com perigo?
+RoundStart_06.mp3	Hyper na área! Segurem seus parafusos!
+RoundStart_07.mp3	Começou! Que a confusão seja linda!
+RoundStart_08.mp3	Respirem fundo! Vai ficar esquisito!
+RoundStart_09.mp3	Atenção, terráqueos! O caos está chegando!
+RoundStart_10.mp3	Luzes, câmera... CORRAM!
+
+== Sorteio do minigame (Spin) — emoção: chocado ==
+Spin_01.mp3	Girando a roleta da confusão!
+Spin_02.mp3	O destino está com preguiça hoje!
+Spin_03.mp3	Que comece o suspense desnecessário!
+Spin_04.mp3	Escolhendo sua próxima aventura... ou desastre!
+Spin_05.mp3	Minha roleta nunca erra! Quase nunca!
+Spin_06.mp3	Será diversão? Será sofrimento? SURPRESA!
+Spin_07.mp3	Computando diversão... erro! Diversão encontrada!
+Spin_08.mp3	A sorte sorri! Às vezes!
+Spin_09.mp3	Tambores, por favor! Não temos tambores!
+Spin_10.mp3	O próximo desafio será... TCHARAM!
+
+== Modificador de caos (Modifier) — emoção: malvado, rindo ==
+Modifier_01.mp3	OPS! Apertei o botão errado!
+Modifier_02.mp3	O caos acaba de ganhar tempero!
+Modifier_03.mp3	Mudança de planos, meus queridos!
+Modifier_04.mp3	Quem autorizou essa loucura? Fui eu!
+Modifier_05.mp3	Ativando o modo BAGUNÇA!
+Modifier_06.mp3	A física pediu demissão!
+Modifier_07.mp3	Isso não estava no contrato!
+Modifier_08.mp3	Mais caos? COM CERTEZA!
+Modifier_09.mp3	Meu botão favorito! HAHAHA!
+Modifier_10.mp3	As regras mudaram! Boa sorte!
+
+== Alguém caiu (Fell) — emoção: chocado, rindo ==
+Fell_01.mp3	E lá se foi nosso astronauta!
+Fell_02.mp3	Houston, temos um tropeço!
+Fell_03.mp3	A gravidade venceu novamente!
+Fell_04.mp3	Isso foi uma aterrissagem alternativa!
+Fell_05.mp3	Alguém esqueceu como funciona o chão!
+Fell_06.mp3	Cuidado! O chão está desaparecendo!
+Fell_07.mp3	Eita! Essa queda teve estilo!
+Fell_08.mp3	Mais um voo sem passagem!
+Fell_09.mp3	A plateia agradece pelo espetáculo!
+Fell_10.mp3	Direto para o departamento de quedas!
+
+== Sobrou só um (LastOne) — emoção: chocado, feliz ==
+LastOne_01.mp3	TEMOS UM FINALISTA!
+LastOne_02.mp3	Só sobrou uma lenda!
+LastOne_03.mp3	Um sobrevivente! Mil histórias para contar!
+LastOne_04.mp3	O último biscoito do pacote!
+LastOne_05.mp3	Todos caíram... menos essa criatura!
+LastOne_06.mp3	Alguém merece uma estátua!
+LastOne_07.mp3	A resistência tem um nome!
+LastOne_08.mp3	O universo escolheu seu favorito!
+LastOne_09.mp3	Um contra o caos inteiro!
+LastOne_10.mp3	Atenção! Temos uma máquina de sobreviver!
+
+== Ninguém sobreviveu (Nobody) — emoção: triste, chocado, rindo ==
+Nobody_01.mp3	Bom... isso foi inesperado!
+Nobody_02.mp3	Todo mundo perdeu! Inclusive minha esperança!
+Nobody_03.mp3	Silêncio... pelos nossos queridos participantes!
+Nobody_04.mp3	Acho que exagerei um pouquinho!
+Nobody_05.mp3	Nem meu processador esperava essa!
+Nobody_06.mp3	O caos venceu! De novo!
+Nobody_07.mp3	Alguém viu para onde todos foram?
+Nobody_08.mp3	Resultado oficial: desastre completo!
+Nobody_09.mp3	Precisamos revisar as normas de segurança!
+Nobody_10.mp3	Ninguém ganhou! Que eficiência impressionante!
+
+== Vitória (Victory) — emoção: feliz, rindo ==
+Victory_01.mp3	TEMOS UM CAMPEÃO!
+Victory_02.mp3	Aplausos para essa criatura lendária!
+Victory_03.mp3	Vitória desbloqueada! Ego aumentado!
+Victory_04.mp3	O Hyper aprova essa performance!
+Victory_05.mp3	Você venceu! Meu processador está emocionado!
+Victory_06.mp3	Isso merece confete! MUITO CONFETE!
+Victory_07.mp3	O universo tem um novo campeão!
+Victory_08.mp3	Parabéns! Você sobreviveu ao meu programa!
+Victory_09.mp3	A vitória tem gosto de HyperCoins!
+Victory_10.mp3	Senhoras e senhores... UMA LENDA!
+
+== Vários caíram seguidos (MultiFell) — emoção: chocado, rindo ==
+MultiFell_01.mp3	E TEMOS MAIS UM PARTICIPANTE FORA!
+MultiFell_02.mp3	OPA! ESSE AÍ NÃO VIU O CHÃO CHEGANDO!
+MultiFell_03.mp3	NÃO DESANIMA! OU... DESANIMA, SEI LÁ!
+MultiFell_04.mp3	Caiu um, caiu outro... é uma chuva de gente!
+
+== Hyper satisfeito (Satisfaction) — emoção: feliz, rindo ==
+Satisfaction_01.mp3	AGORA SIM, ISSO É ENTRETENIMENTO!
+Satisfaction_02.mp3	QUE DISPUTA! NÃO CONSIGO TIRAR OS OLHOS!
+Satisfaction_03.mp3	VOCÊS ESTÃO ME IMPRESSIONANDO!
+
+== Hyper impaciente (Impatience) — emoção: irritado ==
+Impatience_01.mp3	ALGUÉM VAI FAZER ALGUMA COISA?
+Impatience_02.mp3	EU TENHO UM PROGRAMA PRA APRESENTAR, SABEM?
+Impatience_03.mp3	VAMOS LÁ! NÃO TEMOS O DIA INTEIRO!
+
+== Hyper bravo (Anger) — emoção: bravo ==
+Anger_01.mp3	VOCÊS ESTÃO TESTANDO A MINHA PACIÊNCIA!
+Anger_02.mp3	EU TENTEI SER LEGAL COM VOCÊS!
+Anger_03.mp3	CHEGA! AGORA AS COISAS VÃO MUDAR!
+
+== Modo furioso (FuriousMode) — emoção: furioso ==
+FuriousMode_01.mp3	AGORA É CADA UM POR SI!
+FuriousMode_02.mp3	QUERO VER QUEM AGUENTA O SHOW DE VERDADE!
+FuriousMode_03.mp3	NÃO RECLAMEM DEPOIS!
+
+== Cena: ficando furioso (CutsceneAngry) — emoção: bravo ==
+CutsceneAngry_01.mp3	AH, VOCÊS ACHAM QUE ISSO AQUI É BRINCADEIRA?!
+CutsceneAngry_02.mp3	O SHOW ACABOU! AGORA É SOBREVIVÊNCIA!
+CutsceneAngry_03.mp3	EU TENTEI SER LEGAL COM VOCÊS... MAS VOCÊS PEDIRAM POR ISSO!
+
+== Cena: revelação furiosa (CutsceneAngryReveal) — emoção: furioso ==
+CutsceneAngryReveal_01.mp3	SE VOCÊS QUEREM UM SHOW DE VERDADE, ENTÃO VAMOS VER QUEM CONSEGUE SOBREVIVER!
+
+== Cena: acalmando (CutsceneCalm) — emoção: neutro ==
+CutsceneCalm_01.mp3	AH... FINALMENTE! AGORA SIM, ISSO É UM ESPETÁCULO!
+
+== Cena: show salvo (CutsceneCalmReveal) — emoção: feliz ==
+CutsceneCalmReveal_01.mp3	É DISSO QUE EU ESTOU FALANDO! O SHOW ESTÁ SALVO!
+
+== Hyper recuperado (Recovery) — emoção: feliz ==
+Recovery_01.mp3	FINALMENTE, UMA PARTIDA DECENTE!
+Recovery_02.mp3	ESTÁ VENDO? EU SABIA QUE VOCÊS CONSEGUIAM!
+Recovery_03.mp3	MUITO BEM! O SHOW ESTÁ DE VOLTA!

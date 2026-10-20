@@ -1,0 +1,596 @@
+{
+  "application": "5.2.2 LTS",
+  "checks": [
+    {
+      "name": "Blend reopens",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "20 starting positions",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Spawn minimum separation over 17 studs",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Arena diameter approximately 240",
+      "passed": true,
+      "detail": [
+        240.8000030517578,
+        240.8000030517578,
+        48.60000228881836
+      ]
+    },
+    {
+      "name": "Center playable disk diameter 28",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Four separate moving assemblies",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Four separate jump pads",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Inner islands clear central ramp footprints",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Cover separate from moving platform footprints",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Middle platforms clear cardinal access ramps",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Ramp slopes <= 30 degrees",
+      "passed": true,
+      "detail": 22.479434397103113
+    },
+    {
+      "name": "Platforms at height 6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Platforms at height 12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Platforms at height 18",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HyperShow_V2_Arena_20Players.glb binary and reimport",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HyperShow_V2_Arena_20Players.glb finite coordinates",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HyperShow_V2_Arena_20Players.glb under 20000 triangles per mesh",
+      "passed": true,
+      "detail": 2744
+    },
+    {
+      "name": "HyperShow_V2_Arena_20Players.glb vertex colors",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HyperShow_V2_Asteroides_Opcionais.glb binary and reimport",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HyperShow_V2_Asteroides_Opcionais.glb finite coordinates",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HyperShow_V2_Asteroides_Opcionais.glb under 20000 triangles per mesh",
+      "passed": true,
+      "detail": 20
+    },
+    {
+      "name": "HyperShow_V2_Asteroides_Opcionais.glb vertex colors",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HyperShow_V2_Martelo.glb binary and reimport",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HyperShow_V2_Martelo.glb finite coordinates",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HyperShow_V2_Martelo.glb under 20000 triangles per mesh",
+      "passed": true,
+      "detail": 572
+    },
+    {
+      "name": "HyperShow_V2_Martelo.glb vertex colors",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HyperShow_V2_ReferenciaEscala.glb binary and reimport",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HyperShow_V2_ReferenciaEscala.glb finite coordinates",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HyperShow_V2_ReferenciaEscala.glb under 20000 triangles per mesh",
+      "passed": true,
+      "detail": 220
+    },
+    {
+      "name": "HyperShow_V2_ReferenciaEscala.glb vertex colors",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Modulo_CenterPlatform.glb binary and reimport",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Modulo_CenterPlatform.glb finite coordinates",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Modulo_CenterPlatform.glb under 20000 triangles per mesh",
+      "passed": true,
+      "detail": 768
+    },
+    {
+      "name": "Modulo_CenterPlatform.glb vertex colors",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Modulo_DecorativeStructures.glb binary and reimport",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Modulo_DecorativeStructures.glb finite coordinates",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Modulo_DecorativeStructures.glb under 20000 triangles per mesh",
+      "passed": true,
+      "detail": 2544
+    },
+    {
+      "name": "Modulo_DecorativeStructures.glb vertex colors",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Modulo_ElevatedPlatforms.glb binary and reimport",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Modulo_ElevatedPlatforms.glb finite coordinates",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Modulo_ElevatedPlatforms.glb under 20000 triangles per mesh",
+      "passed": true,
+      "detail": 2744
+    },
+    {
+      "name": "Modulo_ElevatedPlatforms.glb vertex colors",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Modulo_HazardZones.glb binary and reimport",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Modulo_HazardZones.glb finite coordinates",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Modulo_HazardZones.glb under 20000 triangles per mesh",
+      "passed": true,
+      "detail": 2328
+    },
+    {
+      "name": "Modulo_HazardZones.glb vertex colors",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Modulo_JumpPads.glb binary and reimport",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Modulo_JumpPads.glb finite coordinates",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Modulo_JumpPads.glb under 20000 triangles per mesh",
+      "passed": true,
+      "detail": 1880
+    },
+    {
+      "name": "Modulo_JumpPads.glb vertex colors",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Modulo_MainPlatform.glb binary and reimport",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Modulo_MainPlatform.glb finite coordinates",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Modulo_MainPlatform.glb under 20000 triangles per mesh",
+      "passed": true,
+      "detail": 1024
+    },
+    {
+      "name": "Modulo_MainPlatform.glb vertex colors",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Modulo_Markers.glb binary and reimport",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Modulo_Markers.glb finite coordinates",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Modulo_Markers.glb under 20000 triangles per mesh",
+      "passed": true,
+      "detail": 1632
+    },
+    {
+      "name": "Modulo_Markers.glb vertex colors",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Modulo_MovingPlatforms.glb binary and reimport",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Modulo_MovingPlatforms.glb finite coordinates",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Modulo_MovingPlatforms.glb under 20000 triangles per mesh",
+      "passed": true,
+      "detail": 1880
+    },
+    {
+      "name": "Modulo_MovingPlatforms.glb vertex colors",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Modulo_Obstacles.glb binary and reimport",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Modulo_Obstacles.glb finite coordinates",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Modulo_Obstacles.glb under 20000 triangles per mesh",
+      "passed": true,
+      "detail": 2728
+    },
+    {
+      "name": "Modulo_Obstacles.glb vertex colors",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Modulo_OuterRoutes.glb binary and reimport",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Modulo_OuterRoutes.glb finite coordinates",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Modulo_OuterRoutes.glb under 20000 triangles per mesh",
+      "passed": true,
+      "detail": 36
+    },
+    {
+      "name": "Modulo_OuterRoutes.glb vertex colors",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Modulo_Ramps.glb binary and reimport",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Modulo_Ramps.glb finite coordinates",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Modulo_Ramps.glb under 20000 triangles per mesh",
+      "passed": true,
+      "detail": 768
+    },
+    {
+      "name": "Modulo_Ramps.glb vertex colors",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "01_Arena_V2_Perspectiva render PNG",
+      "passed": true,
+      "detail": [
+        1800,
+        1400
+      ]
+    },
+    {
+      "name": "02_Arena_V2_Superior render PNG",
+      "passed": true,
+      "detail": [
+        1800,
+        1400
+      ]
+    },
+    {
+      "name": "03_Arena_V2_Jogador render PNG",
+      "passed": true,
+      "detail": [
+        1800,
+        1400
+      ]
+    },
+    {
+      "name": "04_Arena_V2_Lateral render PNG",
+      "passed": true,
+      "detail": [
+        1800,
+        1400
+      ]
+    },
+    {
+      "name": "05_Martelo_V2 render PNG",
+      "passed": true,
+      "detail": [
+        1800,
+        1400
+      ]
+    },
+    {
+      "name": "06_ReferenciaEscala_V2 render PNG",
+      "passed": true,
+      "detail": [
+        1800,
+        1400
+      ]
+    }
+  ],
+  "files": {
+    "HyperShow_V2_Arena_20Players.glb": {
+      "bytes": 25114692,
+      "meshes": 658,
+      "triangles": 316536,
+      "max_mesh_triangles": 2744,
+      "reimport_bounds_xyz": [
+        240.8000030517578,
+        240.8000030517578,
+        48.60000228881836
+      ]
+    },
+    "HyperShow_V2_Asteroides_Opcionais.glb": {
+      "bytes": 139556,
+      "meshes": 54,
+      "triangles": 936,
+      "max_mesh_triangles": 20,
+      "reimport_bounds_xyz": [
+        357.1863098144531,
+        363.41436767578125,
+        54.166908264160156
+      ]
+    },
+    "HyperShow_V2_Martelo.glb": {
+      "bytes": 600916,
+      "meshes": 23,
+      "triangles": 7808,
+      "max_mesh_triangles": 572,
+      "reimport_bounds_xyz": [
+        8.290000915527344,
+        6.295000314712524,
+        14.170000791549683
+      ]
+    },
+    "HyperShow_V2_ReferenciaEscala.glb": {
+      "bytes": 500648,
+      "meshes": 56,
+      "triangles": 5448,
+      "max_mesh_triangles": 220,
+      "reimport_bounds_xyz": [
+        14.737500667572021,
+        3.3550000190734863,
+        17.091249465942383
+      ]
+    },
+    "Modulo_CenterPlatform.glb": {
+      "bytes": 1513068,
+      "meshes": 107,
+      "triangles": 19976,
+      "max_mesh_triangles": 768,
+      "reimport_bounds_xyz": [
+        44.349998474121094,
+        44.349998474121094,
+        40.85000228881836
+      ]
+    },
+    "Modulo_DecorativeStructures.glb": {
+      "bytes": 3350632,
+      "meshes": 92,
+      "triangles": 42720,
+      "max_mesh_triangles": 2544,
+      "reimport_bounds_xyz": [
+        240.8000030517578,
+        240.8000030517578,
+        35.0
+      ]
+    },
+    "Modulo_ElevatedPlatforms.glb": {
+      "bytes": 10564708,
+      "meshes": 48,
+      "triangles": 131328,
+      "max_mesh_triangles": 2744,
+      "reimport_bounds_xyz": [
+        240.3400115966797,
+        240.33999633789062,
+        18.399999618530273
+      ]
+    },
+    "Modulo_HazardZones.glb": {
+      "bytes": 819856,
+      "meshes": 4,
+      "triangles": 9312,
+      "max_mesh_triangles": 2328,
+      "reimport_bounds_xyz": [
+        177.08782196044922,
+        177.08782196044922,
+        3.4149999618530273
+      ]
+    },
+    "Modulo_JumpPads.glb": {
+      "bytes": 613612,
+      "meshes": 4,
+      "triangles": 7520,
+      "max_mesh_triangles": 1880,
+      "reimport_bounds_xyz": [
+        186.0249786376953,
+        186.0249786376953,
+        3.399999976158142
+      ]
+    },
+    "Modulo_MainPlatform.glb": {
+      "bytes": 2303972,
+      "meshes": 291,
+      "triangles": 29568,
+      "max_mesh_triangles": 1024,
+      "reimport_bounds_xyz": [
+        240.62478637695312,
+        240.62478637695312,
+        7.950000002980232
+      ]
+    },
+    "Modulo_Markers.glb": {
+      "bytes": 1397076,
+      "meshes": 20,
+      "triangles": 20464,
+      "max_mesh_triangles": 1632,
+      "reimport_bounds_xyz": [
+        116.71531677246094,
+        116.71531677246094,
+        0.25999999046325684
+      ]
+    },
+    "Modulo_MovingPlatforms.glb": {
+      "bytes": 613852,
+      "meshes": 4,
+      "triangles": 7520,
+      "max_mesh_triangles": 1880,
+      "reimport_bounds_xyz": [
+        189.7205047607422,
+        189.7205047607422,
+        3.4000000953674316
+      ]
+    },
+    "Modulo_Obstacles.glb": {
+      "bytes": 1755868,
+      "meshes": 8,
+      "triangles": 21824,
+      "max_mesh_triangles": 2728,
+      "reimport_bounds_xyz": [
+        139.76535034179688,
+        139.76535034179688,
+        4.400000095367432
+      ]
+    },
+    "Modulo_OuterRoutes.glb": {
+      "bytes": 144568,
+      "meshes": 48,
+      "triangles": 1728,
+      "max_mesh_triangles": 36,
+      "reimport_bounds_xyz": [
+        230.0,
+        230.0,
+        2.1499996185302734
+      ]
+    },
+    "Modulo_Ramps.glb": {
+      "bytes": 2078020,
+      "meshes": 32,
+      "triangles": 24576,
+      "max_mesh_triangles": 768,
+      "reimport_bounds_xyz": [
+        236.75599670410156,
+        236.75599670410156,
+        19.125933468341827
+      ]
+    }
+  },
+  "scope": "Geometry/file validation, not Roblox playtesting.",
+  "all_passed": true
+}

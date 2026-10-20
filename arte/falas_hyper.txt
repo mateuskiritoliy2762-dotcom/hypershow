@@ -1,0 +1,96 @@
+1.  Início da rodada
+Expressão: feliz ou empolgado
+1. "Senhoras, senhores e criaturas espaciais!"
+2. "O espetáculo vai começar!"
+3. "Preparados para passar vergonha espacial?"
+4. "Apertem os cintos! Ou não!"
+5. "Quem pediu diversão com perigo?"
+6. "Hyper na área! Segurem seus parafusos!"
+7. "Começou! Que a confusão seja linda!"
+8. "Respirem fundo! Vai ficar esquisito!"
+9. "Atenção, terráqueos! O caos está chegando!"
+10. "Luzes, câmera... CORRAM!"
+2.  Sorteio do minigame
+Expressão: curioso ou chocado
+1. "Girando a roleta da confusão!"
+2. "O destino está com preguiça hoje!"
+3. "Que comece o suspense desnecessário!"
+4. "Escolhendo sua próxima aventura... ou desastre!"
+5. "Minha roleta nunca erra! Quase nunca!"
+6. "Será diversão? Será sofrimento? SURPRESA!"
+7. "Computando diversão... erro! Diversão encontrada!"
+8. "A sorte sorri! Às vezes!"
+9. "Tambores, por favor! Não temos tambores!"
+10. "O próximo desafio será... TCHARAM!"
+3.  Modificador de caos ativado
+Expressão: malvado ou rindo
+1. "OPS! Apertei o botão errado!"
+2. "O caos acaba de ganhar tempero!"
+3. "Mudança de planos, meus queridos!"
+4. "Quem autorizou essa loucura? Fui eu!"
+5. "Ativando o modo BAGUNÇA!"
+6. "A física pediu demissão!"
+7. "Isso não estava no contrato!"
+8. "Mais caos? COM CERTEZA!"
+9. "Meu botão favorito! HAHAHA!"
+10. "As regras mudaram! Boa sorte!"
+4.  Alguém caiu
+Expressão: chocado ou rindo
+1. "E lá se foi nosso astronauta!"
+2. "Houston, temos um tropeço!"
+3. "A gravidade venceu novamente!"
+4. "Isso foi uma aterrissagem alternativa!"
+5. "Alguém esqueceu como funciona o chão!"
+6. "Cuidado! O chão está desaparecendo!"
+7. "Eita! Essa queda teve estilo!"
+8. "Mais um voo sem passagem!"
+9. "A plateia agradece pelo espetáculo!"
+10. "Direto para o departamento de quedas!"
+5.  Sobrou apenas um jogador
+Expressão: chocado ou empolgado
+1. "TEMOS UM FINALISTA!"
+2. "Só sobrou uma lenda!"
+3. "Um sobrevivente! Mil histórias para contar!"
+4. "O último biscoito do pacote!"
+5. "Todos caíram... menos essa criatura!"
+6. "Alguém merece uma estátua!"
+7. "A resistência tem um nome!"
+8. "O universo escolheu seu favorito!"
+9. "Um contra o caos inteiro!"
+10. "Atenção! Temos uma máquina de sobreviver!"
+6.  Ninguém sobreviveu
+Expressão: triste, chocado ou rindo
+1. "Bom... isso foi inesperado!"
+2. "Todo mundo perdeu! Inclusive minha esperança!"
+3. "Silêncio... pelos nossos queridos participantes!"
+4. "Acho que exagerei um pouquinho!"
+5. "Nem meu processador esperava essa!"
+6. "O caos venceu! De novo!"
+7. "Alguém viu para onde todos foram?"
+8. "Resultado oficial: desastre completo!"
+9. "Precisamos revisar as normas de segurança!"
+10. "Ninguém ganhou! Que eficiência impressionante!"
+7.  Vitória
+Expressão: feliz ou rindo
+1. "TEMOS UM CAMPEÃO!"
+2. "Aplausos para essa criatura lendária!"
+3. "Vitória desbloqueada! Ego aumentado!"
+4. "O Hyper aprova essa performance!"
+5. "Você venceu! Meu processador está emocionado!"
+6. "Isso merece confete! MUITO CONFETE!"
+7. "O universo tem um novo campeão!"
+8. "Parabéns! Você sobreviveu ao meu programa!"
+9. "A vitória tem gosto de HyperCoins!"
+10. "Senhoras e senhores... UMA LENDA!"
+
+Bônus: personalidade do Hyper
+Minha sugestão é não fazer o robô apenas anunciar os acontecimentos. Ele deve parecer um apresentador que adora seus participantes, mas ama ainda mais quando algo inesperado acontece.
+Expressão da tela	Personalidade na fala
+Feliz	Animado, acolhedor, exagerado
+Chocado	Dramático, incrédulo
+Rindo	Brincalhão, debochado
+Malvado	Travesso, provocador
+Contagem	Apressado, teatral
+Triste	Melodramático, engraçado
+Um detalhe importante para o Roblox: recomendo sortear uma frase diferente a cada evento, evitando repetir as últimas três. Assim o Hyper não parece um robô com apenas duas falas gravadas, o que seria um tanto constrangedor para alguém que literalmente é um robô.
+Também reservaria algumas frases raras, com probabilidade de 1% a 5%, para surpreender os jogadores. Isso pode virar uma característica marcante do HyperShow.
